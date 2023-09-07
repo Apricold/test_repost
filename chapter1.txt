@@ -5,3 +5,6 @@ ls --> archivos dentro de una carpeta
 git init --> Create local repository
 
 git clone --> clonar un repositorio
+git diff <file_name> --> differences between 2 versions of the same file
+
+git checkout <file_name> --> come back to the last version of a file
