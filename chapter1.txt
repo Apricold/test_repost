@@ -1,0 +1,7 @@
+cd --> acceder una carpeta
+touch--> crear un archivo
+start --> correr archivo
+ls --> archivos dentro de una carpeta
+git init --> Create local repository
+
+git clone --> clonar un repositorio
